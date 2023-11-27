@@ -12,8 +12,8 @@
     e. Update the Repository URLs from `https` to `git@` [using git remote](https://git-scm.com/docs/git-remote)
 
 
-Assignments: 
+Assignments:
 - Read more into [ssh-keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=mac)
-- Everyone will submit a PR with an new file with README-{name}.md name
-- Put your random ssh key art in the READ ME file. 
-- 
+- Everyone will submit a PR with an new file with `README-{name}.md` name
+- Put your random ssh key art in the READ ME file.
+- Read into Javascript Introduction and [Event Loop](https://medium.com/preezma/node-js-event-loop-architecture-go-deeper-node-core-c96b4cec7aa4)
